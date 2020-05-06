@@ -38,7 +38,7 @@ Still improving...
 `print("hello, world")`
 问天地好在！（此乃[wenyanLang](https://github.com/wenyan-lang/wenyan)之梗）
 
-python最棒
+Python真不赖
 
 ```python
 def printText(text):

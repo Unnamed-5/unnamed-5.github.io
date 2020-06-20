@@ -1,4 +1,4 @@
-<meta name="apple-itunes-app" content="app-id=myAppStoreID, affiliate-data=myAffiliateData, app-argument=myURL">
+<meta name="生日便签" content="app-id=1488441985">
 
 # About me
 
@@ -9,6 +9,10 @@ Hobbies: coding, video editing, photograghing
 一个出生于2007年的地球人类，居住于中国深圳。
 
 爱好：敲代码，剪辑视频，摄影
+
+这是我的App：
+
+<a href="https://apps.apple.com/cn/app/%E7%94%9F%E6%97%A5%E4%BE%BF%E7%AD%BE/id1499441985?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/zh-cn/badge-lrg.svg?releaseDate=2020-04-08&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 
 ## Language I can code with
 

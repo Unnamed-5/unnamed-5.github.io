@@ -4,11 +4,9 @@
 
 欢迎你使用我们的应用！
 
-我们非常尊重您的隐私，绝不收集和存储您的任何个人信息。我们的App不会读取您的任何个人信息，我们也更不会向任何第三方提供、出售、出租、分享或交易您的个人信息。
+我们非常尊重您的隐私，不收集您的任何个人信息，它们都储存于您的设备以及Apple的iCloud中。
 
-我们使用苹果的iCloud服务为您储存app数据。
-
-本隐私政策适用于所有我们开发的应用。 
+We don’t collect any of your personal information, they’re stored in your devices and/or your iCloud space.
 
 ![privacy](assets/privacy.jpg "a locked lock on a computer keyboard")
 

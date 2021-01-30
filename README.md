@@ -17,59 +17,21 @@ Hobbies: coding, video editing, photograghing
 ## Language I can code with
 
 1. Swift
-1. Python 2.x
-1. Python 3.x
+1. Python
 1. Scratch
 
 Still improving...
 
 ## Favourite things 喜欢的玩意儿：
-+ MARVEL Movies 此生无悔入漫威
-+ Sherlock 我神夏无敌
++ Ultraman 我相信光！
++ MARVEL Movies 此生无悔入漫威！
 + Apple Inc. 果粉一枚
 + Minecraft 来世还做方块人
 
 #### *(Nominated 提名奖：)*
 + *Clash Royale 皇室战争*
 
-## My account on [Scratch](https://scratch.mit.edu) :
-### [RobbinsL](https://scratch.mit.edu/users/robbinsl)
-
 ***
- 
-## Put some code here just for fun:
-
-
-`print("hello, world")`
-问天地好在！（此乃[wenyanLang](https://github.com/wenyan-lang/wenyan)之梗）
-
-Python真不赖
-
-```python
-def printText(text):
-    print(text)
-a = "hello, world"
-for i in range(5):
-    printText(a)
-```
-
-苹果的Switt
-```swift
-func printText(_ text: string?) {
-    if let someText = text {
-        print(text)
-    } else {
-        print("")
-    }
-}
-let a = "hello, world"
-for i in 0...5{
-    printText(a)
-}
-```
-
-## 给我们加鸡腿 Support Us
-[传送门](/assets/surpport_us.png)
 
 ## 链接推荐 Nice Links
 

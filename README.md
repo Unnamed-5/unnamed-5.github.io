@@ -1,4 +1,3 @@
-<meta name="生日便签" content="app-id=1488441985">
 
 # About me
 
@@ -9,6 +8,10 @@ Hobbies: coding, video editing, photograghing
 一个出生于2007年的地球人类，居住于中国深圳。
 
 爱好：敲代码，剪辑视频，摄影
+
+## 我的成果 My work
+
+[生日便签](https://apps.apple.com/cn/app/id1499441985)
 
 ## Language I can code with
 

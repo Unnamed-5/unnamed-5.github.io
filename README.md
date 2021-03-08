@@ -43,4 +43,6 @@ Still improving...
 
 [App 隐私政策 Privacy Policy](/privacy)
 
+[App 支持 Support](/support)
+
 ![icon](assets/astroctocat.jpg "octocat, the mascot of github on a space background")

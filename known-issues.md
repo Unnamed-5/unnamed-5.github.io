@@ -6,7 +6,7 @@
 
 ***
 
-# Known Issues (tobe released soon) 
+# Known Issues (to be released soon) 
 - Some errors when using non-Gregorian calendars
 - Image resources taking up more storage space than expected
 - Acknowledgements page lagging

@@ -10,6 +10,8 @@
 
 **简单来说：我们啥也不收集。**
 
+
+
 **Hi!**
 
 Thanks for using my app.
@@ -18,7 +20,7 @@ We don’t collect any of your personal information, they’re stored in your de
 
 **In short: We don't collect anything**
 
-（although i'm an indie but "we" sounds more profressional)
+（although I'm an indie but saying "we" seems to be more profressional :) )
 
 ![privacy](assets/privacy.jpg "a locked lock on a computer keyboard")
 

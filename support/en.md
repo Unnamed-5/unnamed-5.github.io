@@ -1,4 +1,4 @@
-# Birthday sticky note help
+# Birthday Notes Help
 
 The following guides are based on the latest version of the app, please make sure you are updated.
 

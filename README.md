@@ -1,34 +1,27 @@
 
 # About me
 
-Born in 2007, Shenzhen, China
-
-Hobbies: coding, video editing, photograghing
-
 一个出生于2007年的地球人类，居住于中国深圳。
 
-爱好：敲代码，剪辑视频，摄影
+爱好：敲代码，剪辑视频，摄影，看特摄
 
-## 我的成果 My work
+## 我的成果
 
 [生日便签](https://apps.apple.com/cn/app/id1499441985)
 
-## Language I can code with
+## 会写的语言
 
 1. Swift
 1. Python
-1. Scratch
+1. Scratch（如果这算一门语言）
 
-Still improving...
+正在学HTML+CSS+JS……
 
-## Favourite things 喜欢的玩意儿：
-+ Ultraman 我相信光！
-+ MARVEL Movies 此生无悔入漫威！
-+ Apple Inc. 果粉一枚
-+ Minecraft 来世还做方块人
-
-#### *(Nominated 提名奖：)*
-+ *Clash Royale 皇室战争*
+## 喜欢的玩意儿：
++ 特摄
++ 漫威
++ 苹果公司的大多数产品
++ Minecraft
 
 ***
 

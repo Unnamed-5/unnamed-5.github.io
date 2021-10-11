@@ -38,4 +38,6 @@
 
 [App 支持 Support](/support)
 
+[互动小说](/yu)
+
 ![icon](assets/astroctocat.jpg "octocat, the mascot of github on a space background")

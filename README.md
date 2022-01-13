@@ -1,43 +1,20 @@
+# About Me
 
-# About me
+一个出生于2007年的地球人类，居住于中国深圳的光荣的太阳系地球人类。
 
-一个出生于2007年的地球人类，居住于中国深圳。
+一个冷静而急躁，外向而社恐、坚定而动摇的人。
 
-爱好：敲代码，剪辑视频，摄影，看特摄
++ 特摄厨
++ 摄影+剪辑爱好者
++ 科幻爱好者
++ 学习马克思主义中
++ 狂热且理智的Apple粉丝（做得不好的产品我会往死里喷，别人说得不对的我会拼了命怼）
++ 学过声乐、街舞、钢琴和小提琴。
 
-## 我的成果
+# Apps
 
-[生日便签](https://apps.apple.com/cn/app/id1499441985)
+[生日便签](https://apps.apple.com/app/id1499441985)
+[节拍便签](https://apps.apple.com/app/id1566854024)
 
-## 会写的语言
-
-1. Swift
-1. Python
-1. Scratch（如果这算一门语言）
-
-正在学HTML+CSS+JS……
-
-## 喜欢的玩意儿：
-+ 特摄
-+ 漫威
-+ 苹果公司的大多数产品
-+ Minecraft
-
-***
-
-## 链接推荐 Nice Links
-
-[东北方言编程语言（可好使了）(Chinese Dongbei Dialect Programming Language)](https://github.com/zhanyong-wan/dongbei)
-
-文言编程语言的[GitHub链接](https://github.com/wenyan-lang/wenyan)和[官网链接](https://wy-lang.org)
-(Ancient Chinese Programming Language)
-
-[一个好用的极简主页 (a nice concise home page for your web browser)](https://www.jianfast.com)
-
-[App 隐私政策 Privacy Policy](/privacy)
-
-[App 支持 Support](/support)
-
-[互动小说](/yu)
-
-![icon](assets/astroctocat.jpg "octocat, the mascot of github on a space background")
+# B站账号
+[@bili_1379](https://space.bilibili.com/477468459)

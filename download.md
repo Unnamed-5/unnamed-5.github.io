@@ -1,1 +1,1 @@
-[安装](itms-services://?action=download-manifest&url=https://yiwenxue.cn/game/game-demo.plist)
+[安装](itms-services://?action=download-manifest&url=https://i15.app/manifest.plist)

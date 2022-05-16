@@ -19,6 +19,9 @@
 # B站
 [@bili_1379](https://space.bilibili.com/477468459)
 
-# Email & iMessage
+# Email
+[i@i15.app](mailto:rrrrrlcd<i@i15.app>)
+
+# Personal Email & iMessage
 [R5Liu@iCloud.com](mailto:rrrrrlcd<r5liu@icloud.com>)
 

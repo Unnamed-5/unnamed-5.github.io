@@ -24,4 +24,3 @@
 
 # Personal Email & iMessage
 [R5Liu@iCloud.com](mailto:rrrrrlcd<r5liu@icloud.com>)
-

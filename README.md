@@ -21,6 +21,3 @@
 
 # Email
 [i@i15.app](mailto:rrrrrlcd<i@i15.app>)
-
-# Personal Email & iMessage
-[R5Liu@iCloud.com](mailto:rrrrrlcd<r5liu@icloud.com>)
